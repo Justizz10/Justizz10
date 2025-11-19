@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Justizz10
-- 👀 I’m interested in Web / Game Development
+- 👀 I’m interested in Game Development
 - 🌱 I’m currently learning 
 - ⚡ Fun fact: Mie Ayam lovers
 
