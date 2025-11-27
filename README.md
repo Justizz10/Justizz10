@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @Justizz10
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning 
-- ⚡ Fun fact: Mie Ayam lovers
+👋 Hi there! I'm Justizz10
+
+🎮 Game Development Enthusiast
+
+🌱 Currently Learning:
+Unity • C# • Game Design Basics
+
+⚡ Fun Fact:
+Mie Ayam's BF🍜
 
 <!---
 Justizz10/Justizz10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
